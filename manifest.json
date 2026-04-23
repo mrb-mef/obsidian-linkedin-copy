@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-linkedin-copy",
 	"name": "LinkedIn Copy",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Copy your markdown selection as LinkedIn-formatted Unicode text.",
 	"author": "mboyer",

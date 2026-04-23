@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-linkedin-copy",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "An Obsidian plugin to copy Markdown as LinkedIn-formatted Unicode text.",
 	"main": "main.js",
 	"scripts": {
